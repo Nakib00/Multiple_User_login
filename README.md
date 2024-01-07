@@ -14,10 +14,10 @@ Before running the project, ensure that you have the following software installe
 - [MySQL](https://www.mysql.com/) or another compatible database
 
 
-#Usage
--Access the home page and register a new user.
--Log in with the created user account.
--Depending on the is_admin property, you will be redirected to either the user or admin dashboard.
+# Usage
+- Access the home page and register a new user.
+- Log in with the created user account.
+- Depending on the is_admin property, you will be redirected to either the user or admin dashboard.
 
-#Contributing
+# Contributing
 Contributions are welcome! If you find any issues or want to improve the project, feel free to submit a pull request."# Multiple_User_login" 
